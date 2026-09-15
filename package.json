@@ -69,7 +69,7 @@
     "vue-template-compiler": "^2.7.16",
     "weather-api": "git+https://github.com/alexander0042/weather-api.git",
     "webpack": "^5.111.0",
-    "webpack-bundle-analyzer": "^3.3.2",
+    "webpack-bundle-analyzer": "^5.3.3",
     "webpack-dev-middleware": "^8.3.0",
     "webpack-hot-middleware": "^2.26.1",
     "webpack-merge": "^4.1.2"
