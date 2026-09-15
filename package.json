@@ -42,7 +42,7 @@
     "copy-webpack-plugin": "^14.0.0",
     "css-loader": "^0.28.11",
     "es6-promise": "^4.2.4",
-    "eslint": "^3.19.0",
+    "eslint": "^10.0.0",
     "eslint-config-standard": "^6.2.1",
     "eslint-friendly-formatter": "^2.0.7",
     "eslint-loader": "^1.9.0",
