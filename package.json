@@ -23,7 +23,7 @@
     "reset-css": "^5.0.2",
     "vue": "^3.5.42",
     "vue-google-autocomplete": "^1.1.4",
-    "vuex": "^2.5.0",
+    "vuex": "^4.1.0",
     "whatwg-fetch": "^2.0.4"
   },
   "devDependencies": {
