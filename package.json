@@ -20,7 +20,7 @@
     "load-google-maps-api": "^1.2.1",
     "moment": "^2.31.0",
     "moment-timezone": "^0.6.3",
-    "reset-css": "^2.2.1",
+    "reset-css": "^5.0.2",
     "vue": "^3.5.42",
     "vue-google-autocomplete": "^1.1.4",
     "vuex": "^2.5.0",
